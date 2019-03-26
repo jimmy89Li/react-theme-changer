@@ -31,3 +31,17 @@
     transform: rotate(360deg);
   }
 }
+
+
+.day > .App-header {
+  color: #111;
+  background: #fff url(http://pluspng.com/img-png/sun-png-clear-background-download-547.png) no-repeat;
+  background-size: 200px;
+  background-position: 50% 20%;
+} 
+.night > .App-header {
+  color: #fff;
+  background: #111 url(https://i2.wp.com/freepngimages.com/wp-content/uploads/2016/11/super-moon.png?fit=624%2C624) no-repeat;
+  background-size: 200px;
+  background-position: 50% 20%;
+}
